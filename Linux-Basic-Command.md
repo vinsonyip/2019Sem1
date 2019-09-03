@@ -1,9 +1,54 @@
 # COMP3230 Principle of operating system
 
 ----------------------------------------
+<details>
+<summary>Basic Linux command I</summary>
+
+## Get Super user permission
+
+`sudo`
+
+## Installing, removing and upgrade
+
+`apt-get`
+
+## Describe the command
+
+`whatis`
+
+## Display the command type
+
+`type`
+
+## Estimate executing time of a command
+
+`time`
+
+## Change a command with extra function
+
+`alias [ls='ls -al']` alias [append extra function in short fomr] 
+
+## Show file location
+
+`whereis [python3.2]`
+
+## Show help info
+
+`help`
+
+## Show document of command
+
+`man [ls]`
+
+## Show input command history list
+
+`history`
+
+</details>
 
 <details>
-<summary>Basic Linux command</summary>
+
+<summary>Basic Linux command II</summary>
 
 ## Show directory
 
@@ -46,6 +91,3 @@
 
 </details>
 
-<details>
-
-</details>
